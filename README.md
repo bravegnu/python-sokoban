@@ -5,11 +5,11 @@ write unit test caeses.
 
 Execute the program using the following command:
 
-  python3 sokoban.py
+    python3 sokoban.py
 
 Run test cases using the following command:
 
-  python3 _test_sokoban.py
+    python3 _test_sokoban.py
 
 ## Credits
 
