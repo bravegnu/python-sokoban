@@ -22,6 +22,6 @@ image::screenshot.png[]
 == Credits
 
   * The tiles are from https://github.com/borgar/sokoban-skins
-  * Level file from, Magic Pearls collection at
+  * Level file from, Boxxle 1 collection at
     http://www.sourcecode.se/sokoban/levels
 
